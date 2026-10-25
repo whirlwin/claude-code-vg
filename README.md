@@ -125,3 +125,7 @@ without a compile step.
 The plugin is named `vg` rather than after the repository because Claude Code
 reserves plugin names starting with `claude-`. It is not affiliated with VG or
 Schibsted.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

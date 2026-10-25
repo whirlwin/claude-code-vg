@@ -3,5 +3,6 @@
   "version": "0.1.0",
   "description": "The latest from VG in the spinner: a red VG tile beside the newest articles on vg.no (up to 20), rotating, with links",
   "author": { "name": "whirlwin" },
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }
