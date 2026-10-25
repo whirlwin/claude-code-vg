@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-vg",
+  "description": "VG mods for Claude Code",
+  "owner": { "name": "whirlwin" },
+  "plugins": [{ "name": "vg", "source": "./" }]
+}
