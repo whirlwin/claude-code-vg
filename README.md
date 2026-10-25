@@ -6,6 +6,8 @@ newest articles on vg.no (up to 20): rank and title on the first line, and
 under it the section and age as VG words them, such as
 `Nyheter · for 23 minutter siden`.
 
+![The spinner rotating through the newest articles while Claude runs a command](docs/demo.gif)
+
 A new article every six seconds, newest first and round again. The rotation
 only moves while it is on screen, so the next turn picks up where the last one
 stopped. Each time the article changes, the letters roll up out of the tile
